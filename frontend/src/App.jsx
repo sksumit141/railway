@@ -5,7 +5,7 @@ import MasterLogin from "./pages/MasterLogin.jsx";
 import ShopLogin from "./pages/ShopLogin.jsx";
 import Header from "./components/Header.jsx";
 import Subheader from "./components/Subheader.jsx";
-import { Home } from "lucide-react";
+import Home from "./pages/Home.jsx";
 
 function App() {
   return (
